@@ -1,16 +1,20 @@
 # Customer Segmentation Dashboard (Power BI)
 
-This project analyzes customer data using Power BI.
+## Project Overview
+This project analyzes customer purchasing behavior using Power BI.
 
-## Features:
-- Gender-wise distribution (Pie Chart)
-- Purchase analysis (Stacked Bar Chart)
-- Total customers and purchase amount (Cards)
-- Interactive filtering using slicers
+## Key Insights
+- Gender-based purchase patterns analyzed
+- Age-wise customer segmentation
+- Purchase amount behavior comparison
 
-## Tools Used:
-- Power BI
-- Excel Dataset
+## Files Included
+- Power BI Dashboard (.pbix file)
+- Dataset used for analysis
 
-## Author:
+## Tools Used
+- Microsoft Power BI
+- Excel
+
+## Author
 Shambhavi Mishra
